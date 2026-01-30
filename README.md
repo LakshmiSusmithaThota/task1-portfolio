@@ -1,7 +1,7 @@
 # task1-portfolio
 
 
-# Personal Portfolio Website
+# Portfolio Website
 
 This repository contains my **Personal Portfolio Website**, developed as part of **Task-1** for the **ApexPlanet Full Stack Web Development Internship**.
 
